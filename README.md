@@ -1,4 +1,4 @@
-## Hi! I'm Filip Urbásek. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" /> 
+## Hi! I'm Filip Urbásek <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="32" height="32"></picture>
 
 I'm a Front-end developer from Czech Republic.
 
