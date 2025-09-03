@@ -7,8 +7,9 @@ I'm a Front-end developer from Czech Republic.
 - 🧑‍💻 I specialize in JavaScript web pages and React apps.
 - 💌 Reach me here: `urbasekfilip02@gmail.com`
 
-### Latest project:
-- https://furbasek.dev/
+### Latest projects:
+- <p><a href=https://syconar.github.io/Snow-Fox-website/>Snow Fox Recipe Website</p>
+- <p><a href=https://furbasek.dev/>Personal CV</p>
 
 <hr>
 
