@@ -9,3 +9,6 @@ I'm a Front-end developer from Czech Republic.
 
 ### Latest project:
 - https://furbasek.dev/
+
+
+### [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,linux,mint,vscode,figma,py,electron,discord,ps&theme=light)](https://skillicons.dev)
