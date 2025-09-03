@@ -4,7 +4,7 @@ I'm a Front-end developer from Czech Republic.
 
 ### More info about me: https://furbasek.dev/#about
 
-- 🧑‍💻 I specialize in JavaScript web pages and React applications.
+- 🧑‍💻 I specialize in JavaScript web pages and React apps.
 - 💌 Reach me here: `urbasekfilip02@gmail.com`
 
 ### Latest project:
