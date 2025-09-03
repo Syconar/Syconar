@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi! I'm Filip Urbásek. ☄️ 
+
+I'm a Front-end developer from Czech Republic.
+
+More info about me: https://furbasek.dev/#about
 
 <!--
 **Syconar/Syconar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
